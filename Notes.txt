@@ -1,0 +1,9 @@
+ <div class="col bg-primary">
+                    <img src="/Img/user-icon-grande.png" alt="user-icon-grande">
+                </div>
+                <div class="col bg-danger">
+                    <img src="/Img/logo-DISTRINVENT-pequeño.png" alt="logo-DISTRINVENT-pequeño">
+                </div>
+                <div class="col bg-dark">
+                    <img src="/Img/logo-circular-pequeño.png" alt="logo-DISTRINVENT-pequeño">
+                </div>

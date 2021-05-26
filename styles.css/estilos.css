@@ -1,0 +1,81 @@
+/***** Variables css *****/
+
+:root {
+    --azul: #27438C
+}
+
+
+/******************************* Estilos de principal ************************************/
+
+.Bg-logo {
+    background-color: #C4C4C4;
+}
+
+.Link-1 {
+    margin-top: 40px;
+    font-size: 24px;
+}
+
+.Link-2 {
+    margin-top: 40px;
+    font-size: 24px;
+}
+/******************************* Estilos de pantalla-1 ***********************************/
+
+.container-pantalla-1 {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.h3-Pantalla-1 {
+    font-size: 24px;
+    font-family: Roboto;
+    color: var(--azul);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.label-pantalla-1 {
+    margin-bottom: 50px;
+}
+
+.form-floating {
+    border: #27438C 1px solid;
+    border-radius: 5px;
+}
+
+.button-pantalla-1 {
+    color: black;
+    background-color: #849BD7;
+    padding: 18px 80px;
+    font-size: 30px;
+    border: 1px solid;
+    box-shadow: 5px 5px black;
+    font-weight: 600;
+}
+
+/******************************* Estilos de pantalla-2 ***********************************/
+
+.button-pantalla-2 {
+    color: black;
+    background-color: #849BD7;
+    padding: 17px 30px;
+    font-size: 24px;
+    border: 1px solid;
+    box-shadow: 5px 5px black;
+    font-weight: 600;
+    margin-bottom: 38px;
+    margin-top: 50px;
+}
+
+/******************************* Estilos de pantalla-3 ***********************************/
+
+.Links-Profile {
+    background-color: #8b8b8b;
+}
+
+.links-pantalla-3 {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
